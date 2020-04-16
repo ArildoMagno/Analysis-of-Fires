@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4c0cdb0-b32e-4fbb-a0db-39852b2736ee" name="Default Changelist" comment="enviando as coisa de volta">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ControllerAnalisesMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/ControllerAnalisesMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/tools/Firebase.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/tools/Firebase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/tools/Image.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/tools/Image.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/distributions/AmazoniaAnalysis-1.0.tar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/distributions/AmazoniaAnalysis-1.0.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/distributions/AmazoniaAnalysis-1.1.tar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/distributions/AmazoniaAnalysis-1.1.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/AmazoniaAnalysis-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/AmazoniaAnalysis-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/scripts/AmazoniaAnalysis" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/scripts/AmazoniaAnalysis.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ControllerAnalisesMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ControllerAnalisesMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ControllerEditarDadosMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ControllerEditarDadosMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ControllerEditarDadosRegion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ControllerEditarDadosRegion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ControllerEditarDadosSquad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ControllerEditarDadosSquad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ControllerInformacoesRegion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ControllerInformacoesRegion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ControllerInformacoesSquad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ControllerInformacoesSquad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ControllerRegistroSquad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ControllerRegistroSquad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ControllerUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ControllerUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DAO/RegionDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DAO/RegionDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DAO/SquadDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DAO/SquadDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/analysis/Launcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/analysis/Launcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/analysis/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/analysis/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Image.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Region.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Region.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Squad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Squad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tools/Firebase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tools/Firebase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tokens/StoredCredential" beforeDir="false" afterPath="$PROJECT_DIR$/tokens/StoredCredential" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="POOAmazoniaAnalysis" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="POOAmazoniaAnalysis" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="POOAmazoniaAnalysis" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="POOAmazoniaAnalysis" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Ra4fsn1HXkEEuVfgMVw7rkLGLx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.5955882" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Atlas\Documents\POOamazoniaAnalysisV2" />
+      <recent name="C:\Users\Atlas\Documents\POOamazoniaAnalysisV2\src\main\java" />
+      <recent name="D:\Users\gabri\Documentos\CC\4º Periodo\ED\hellofx\src\main\java" />
+      <recent name="D:\Users\gabri\Documentos\CC\4º Periodo\ED\hellofx\src\main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.POOAmazoniaAnalysis [jar]">
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="analysis.Launcher" />
+      <module name="POOAmazoniaAnalysis.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="analysis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="POOAmazoniaAnalysis [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="POOAmazoniaAnalysis [classes]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="classes" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="POOAmazoniaAnalysis [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="POOAmazoniaAnalysis [jar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="jar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Launcher" />
+      <item itemvalue="Gradle.POOAmazoniaAnalysis [build]" />
+      <item itemvalue="Gradle.POOAmazoniaAnalysis [classes]" />
+      <item itemvalue="Gradle.POOAmazoniaAnalysis [jar]" />
+      <item itemvalue="Gradle.POOAmazoniaAnalysis [clean]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.POOAmazoniaAnalysis [jar]" />
+        <item itemvalue="Application.Launcher" />
+        <item itemvalue="Gradle.POOAmazoniaAnalysis [clean]" />
+        <item itemvalue="Gradle.POOAmazoniaAnalysis [classes]" />
+        <item itemvalue="Gradle.POOAmazoniaAnalysis [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4c0cdb0-b32e-4fbb-a0db-39852b2736ee" name="Default Changelist" comment="" />
+      <created>1569891978223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569891978223</updated>
+      <workItem from="1569891981233" duration="3070000" />
+      <workItem from="1569933390025" duration="355000" />
+      <workItem from="1569934131082" duration="2370000" />
+      <workItem from="1569944497329" duration="1001000" />
+      <workItem from="1569945923590" duration="82000" />
+      <workItem from="1569946492861" duration="74000" />
+      <workItem from="1569947010612" duration="318000" />
+      <workItem from="1569947639696" duration="35000" />
+      <workItem from="1569948902728" duration="3847000" />
+      <workItem from="1571270947900" duration="413000" />
+      <workItem from="1571271809560" duration="97000" />
+      <workItem from="1571271965735" duration="40000" />
+      <workItem from="1571272181240" duration="144000" />
+      <workItem from="1571272365161" duration="7154000" />
+      <workItem from="1571320721378" duration="1390000" />
+      <workItem from="1573560297843" duration="2390000" />
+      <workItem from="1573661113536" duration="51000" />
+      <workItem from="1573748391663" duration="478000" />
+      <workItem from="1573759369271" duration="622000" />
+      <workItem from="1573788395143" duration="485000" />
+      <workItem from="1573796598666" duration="89000" />
+      <workItem from="1573839113551" duration="403000" />
+      <workItem from="1573853863160" duration="1735000" />
+      <workItem from="1573860170639" duration="22528000" />
+      <workItem from="1573952694354" duration="112000" />
+      <workItem from="1574035813411" duration="362000" />
+      <workItem from="1574096968484" duration="85000" />
+      <workItem from="1574116460099" duration="30845000" />
+      <workItem from="1574182559154" duration="12907000" />
+      <workItem from="1574218803563" duration="153000" />
+      <workItem from="1574471273393" duration="9851000" />
+      <workItem from="1574535607034" duration="2438000" />
+      <workItem from="1574767580010" duration="54000" />
+      <workItem from="1574820320170" duration="388000" />
+      <workItem from="1574825047589" duration="1605000" />
+      <workItem from="1574862962210" duration="4291000" />
+      <workItem from="1575144577173" duration="23020000" />
+      <workItem from="1575405639945" duration="8886000" />
+      <workItem from="1575483579585" duration="2721000" />
+      <workItem from="1575487711124" duration="1401000" />
+      <workItem from="1575502026551" duration="69000" />
+      <workItem from="1575502118629" duration="2883000" />
+    </task>
+    <task id="LOCAL-00001" summary="enviando as coisa de volta">
+      <created>1571274602610</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571274602610</updated>
+    </task>
+    <task id="LOCAL-00002" summary="enviando as coisa de volta">
+      <created>1575164078866</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575164078867</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="enviando as coisa de volta" />
+    <option name="LAST_COMMIT_MESSAGE" value="enviando as coisa de volta" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Remote">
+        <watch expression="documents.get(0)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>
