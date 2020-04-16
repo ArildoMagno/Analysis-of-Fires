@@ -6,7 +6,7 @@
 
 
 
-Project Photos:
+#### Project Photos:
 
 
 ![Project Photo - 1](https://github.com/ArildoMagno/POOQueimadas/blob/master/amazonia1.png)
