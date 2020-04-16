@@ -1,7 +1,16 @@
-The work carried out was divided into two distinct projects, named as: 
-Satellite (To generate the images from the Satellite) and Analysis (To analyze the generated images).
-More information inside each one.
+## POOQueimadas
+
+Project Made In Java With The Objective Of Simulating Burning In The Amazonia With Image Evaluation
 
 
-in both projects the executables (.jar) are inside the build -> libs folder.
-From their respective projects
+![Project Photo - 1](https://github.com/ArildoMagno/POOQueimadas/blob/master/amazonia1.png)
+
+![Project Photo - 2](https://github.com/ArildoMagno/POOQueimadas/blob/master/amazonia2.png)
+
+![Project Photo - 3](https://github.com/ArildoMagno/POOQueimadas/blob/master/amazonia3.png)
+
+![Project Photo - 4](https://github.com/ArildoMagno/POOQueimadas/blob/master/amazonia4.png)
+
+
+
+
