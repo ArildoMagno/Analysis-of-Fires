@@ -1,3 +1,0 @@
-Manifest-Version: 1.0
-satellite.Main-Class: satellite.Main
-
