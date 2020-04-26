@@ -1,21 +1,21 @@
 ## POOQueimadas
 
-### Project Made In Java With The Objective Of Simulating Burning In The Amazonia With Image Evaluation
+### Projeto realizado em Java com o objetivo de simular as queimadas na Amazônia e Analisá-las
 
 
 
 
 
-#### Project Photos:
+#### Prints do Projeto:
 
 
-![Project Photo - 1](https://github.com/ArildoMagno/POOQueimadas/blob/master/amazonia1.png)
+![Print 1](https://github.com/ArildoMagno/POOQueimadas/blob/master/amazonia1.png)
 
-![Project Photo - 2](https://github.com/ArildoMagno/POOQueimadas/blob/master/amazonia2.png)
+![Print - 2](https://github.com/ArildoMagno/POOQueimadas/blob/master/amazonia2.png)
 
-![Project Photo - 3](https://github.com/ArildoMagno/POOQueimadas/blob/master/amazonia3.png)
+![Print- 3](https://github.com/ArildoMagno/POOQueimadas/blob/master/amazonia3.png)
 
-![Project Photo - 4](https://github.com/ArildoMagno/POOQueimadas/blob/master/amazonia4.png)
+![Print - 4](https://github.com/ArildoMagno/POOQueimadas/blob/master/amazonia4.png)
 
 
 
