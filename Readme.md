@@ -14,8 +14,5 @@
 
 ![Print - 2](https://github.com/ArildoMagno/POOQueimadas/blob/master/amazonia2.png)
 
-![Print - 4](https://github.com/ArildoMagno/POOQueimadas/blob/master/amazonia4.png)
-
-
 
 
